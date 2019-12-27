@@ -141,14 +141,14 @@
                 android:background="@android:color/black" />
 
             <TextView
-                android:layout_width="60dp"
+                android:layout_width="71dp"
                 android:layout_height="wrap_content"
-                android:text="All"
-                android:layout_marginTop="10dp"
                 android:layout_marginLeft="30dp"
+                android:layout_marginTop="10dp"
                 android:layout_marginRight="90dp"
-                android:paddingStart="20dp"
-                android:textSize="18sp"/>
+                android:paddingStart="10dp"
+                android:text="@string/all"
+                android:textSize="18sp" />
 
             <TextView
                 android:layout_width="100dp"
@@ -157,14 +157,14 @@
                 android:layout_marginTop="10dp"
                 android:layout_marginRight="0dp"
                 android:paddingStart="20dp"
-                android:text="Photos"
+                android:text="@string/photos"
                 android:textStyle="bold"
                 android:textSize="18sp" />
 
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="wrap_content"
-                android:text="Video"
+                android:text="@string/video"
                 android:layout_marginTop="10dp"
                 android:layout_marginLeft="200dp"
                 android:layout_marginRight="0dp"
@@ -174,7 +174,7 @@
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="wrap_content"
-                android:text="Music"
+                android:text="@string/music"
                 android:layout_marginTop="10dp"
                 android:layout_marginLeft="300dp"
                 android:layout_marginRight="0dp"
