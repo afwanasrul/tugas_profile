@@ -31,7 +31,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="M. Luthfi Andhikaputra"
+                android:text="Nasrul Afwa"
                 android:layout_marginTop="170dp"
                 android:layout_marginLeft="120dp"
                 android:layout_marginRight="20dp"
@@ -42,7 +42,7 @@
             <TextView
                 android:layout_width="600dp"
                 android:layout_height="wrap_content"
-                android:text="mluthfi.andhikaputra@gmail.com"
+                android:text="afwa Nasrul11@gmail.com"
                 android:layout_marginTop="200dp"
                 android:layout_marginLeft="85dp"
                 android:layout_marginRight="20dp"
@@ -52,7 +52,7 @@
             <TextView
                 android:layout_width="60dp"
                 android:layout_height="wrap_content"
-                android:text="3.5k"
+                android:text="2.5k"
                 android:layout_marginTop="260dp"
                 android:layout_marginLeft="60dp"
                 android:layout_marginRight="50dp"
@@ -71,7 +71,7 @@
             <TextView
                 android:layout_width="60dp"
                 android:layout_height="wrap_content"
-                android:text="11k"
+                android:text="5k"
                 android:layout_marginTop="260dp"
                 android:layout_marginLeft="140dp"
                 android:layout_marginRight="50dp"
@@ -90,7 +90,7 @@
             <TextView
                 android:layout_width="60dp"
                 android:layout_height="wrap_content"
-                android:text="5k"
+                android:text="3k"
                 android:layout_marginTop="260dp"
                 android:layout_marginLeft="220dp"
                 android:layout_marginRight="50dp"
@@ -109,7 +109,7 @@
             <TextView
                 android:layout_width="60dp"
                 android:layout_height="wrap_content"
-                android:text="2k"
+                android:text="1k"
                 android:layout_marginTop="260dp"
                 android:layout_marginLeft="300dp"
                 android:layout_marginRight="50dp"
@@ -205,54 +205,10 @@
                 android:layout_height="110dp"
                 android:layout_alignParentStart="true"
                 android:layout_alignParentEnd="true"
-                android:layout_marginStart="8dp"
-                android:layout_marginTop="162dp"
-                android:layout_marginEnd="282dp"
-                android:drawableLeft="@drawable/images4"
-                android:textSize="50sp" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="110dp"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentEnd="true"
-                android:layout_marginStart="8dp"
-                android:layout_marginTop="281dp"
-                android:layout_marginEnd="282dp"
-                android:drawableLeft="@drawable/images7"
-                android:textSize="50sp" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="110dp"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentEnd="true"
                 android:layout_marginStart="139dp"
                 android:layout_marginTop="43dp"
                 android:layout_marginEnd="142dp"
                 android:drawableLeft="@drawable/images2"
-                android:textSize="50sp" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="110dp"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentEnd="true"
-                android:layout_marginStart="139dp"
-                android:layout_marginTop="162dp"
-                android:layout_marginEnd="142dp"
-                android:drawableLeft="@drawable/images5"
-                android:textSize="50sp" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="110dp"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentEnd="true"
-                android:layout_marginStart="139dp"
-                android:layout_marginTop="281dp"
-                android:layout_marginEnd="142dp"
-                android:drawableLeft="@drawable/images8"
                 android:textSize="50sp" />
 
             <TextView
@@ -266,27 +222,6 @@
                 android:drawableLeft="@drawable/images3"
                 android:textSize="50sp" />
 
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="110dp"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentEnd="true"
-                android:layout_marginStart="280dp"
-                android:layout_marginTop="162dp"
-                android:layout_marginEnd="9dp"
-                android:drawableLeft="@drawable/images6"
-                android:textSize="50sp" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="110dp"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentEnd="true"
-                android:layout_marginStart="280dp"
-                android:layout_marginTop="281dp"
-                android:layout_marginEnd="9dp"
-                android:drawableLeft="@drawable/images9"
-                android:textSize="50sp" />
         </RelativeLayout>
 
     </LinearLayout>
